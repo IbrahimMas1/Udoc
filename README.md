@@ -1,2 +1,2 @@
 # Udoc
-Smart vaccine Eligibility and reminder system
+Smart vaccine Eligibility and notfication system.
